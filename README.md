@@ -1,0 +1,4 @@
+# aws-kubectl
+
+AWSCLI_VERSION=2.12.6
+KUBECTL_VERSION=1.25.8
